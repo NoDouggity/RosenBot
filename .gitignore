@@ -1,3 +1,4 @@
 *.csv
 transcripts/
 config.py
+__pycache__
